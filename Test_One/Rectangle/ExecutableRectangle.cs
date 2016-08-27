@@ -15,8 +15,13 @@ namespace Test_One.Rectangle
             rectangleOne.display();
             Console.WriteLine("Please Type Anything and Press Return to Quit");
             Console.ReadLine();
+<<<<<<< HEAD
 
             //testing comment
+=======
+            //testing comment nss
+            //test comment 2
+>>>>>>> TestBranch2
 
 
         }
