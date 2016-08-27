@@ -15,8 +15,15 @@ namespace Test_One.Rectangle
             rectangleOne.display();
             Console.WriteLine("Please Type Anything and Press Return to Quit");
             Console.ReadLine();
-
-            //testing comment
+<<<<<<< HEAD
+//hello
+// niro is my name
+//hello again
+//ddefine 
+            //hello
+=======
+            //testing comment 
+>>>>>>> TestBranch2
 
 
         }
