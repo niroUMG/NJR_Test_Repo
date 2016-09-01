@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Test_One.Rectangle
 {
-    class Rectangle
+    public class Rectangle
     {
         // rectangle variables
         double length;
@@ -18,16 +18,16 @@ namespace Test_One.Rectangle
             width = 3.5;
         }
 
-        public double getArea()
+        public double GetArea()
         {
             return length*width;
         }
 
-        public void display()
+        public void Display()
         {
             Console.WriteLine("Length : {0}", length);
             Console.WriteLine("Width : {0}", width);
-            Console.WriteLine("Area : {0}", getArea());
+            Console.WriteLine("Area : {0}", GetArea());
         }
 
 
