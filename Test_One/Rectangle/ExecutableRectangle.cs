@@ -12,7 +12,7 @@ namespace Test_One.Rectangle
         {
             Rectangle rectangleOne = new Rectangle();
             rectangleOne.Acceptdetails();
-            rectangleOne.display();
+            rectangleOne.Display();
             Console.WriteLine("Please Type Anything and Press Return to Quit");
             Console.ReadLine();
 

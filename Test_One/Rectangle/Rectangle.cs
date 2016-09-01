@@ -23,7 +23,7 @@ namespace Test_One.Rectangle
             return length*width;
         }
 
-        public void display()
+        public void Display()
         {
             Console.WriteLine("Length : {0}", length);
             Console.WriteLine("Width : {0}", width);
